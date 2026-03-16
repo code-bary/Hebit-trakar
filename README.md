@@ -2,7 +2,7 @@
 
 **HabitGrid** is a sleek, dark-themed monthly habit tracker designed for those who want to ditch complex spreadsheets. Built with a focus on minimalism and data visualization, it allows users to generate a custom tracking grid in seconds.
 
-[Live Demo](https://code-bary.github.io/habit-grid/)
+[Live Demo](https://code-bary.github.io/HabitGrid/)
 
 ---
 
